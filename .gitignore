@@ -1,0 +1,9 @@
+*.pyc
+gitfiti.sh
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+vcs.xml
